@@ -57,4 +57,4 @@ The results demonstrate a critical trade-off in quantitative finance: **The Liqu
 
 1.  **Regime Switching:** The MLP successfully identified negative-return regimes, triggering a defensive shift to cash (0% exposure).
 2.  **Survivability:** By minimizing drawdowns, the strategy ensures the longevity of capital, which is the foundational requirement for long-term compounding.
-3.  **Future Work:** This research serves as a baseline for **Module M2**, where 2D Convolutional Neural Networks (CNNs) will be applied to capture spatial patterns in price action that 1D MLPs may overlook.
+3.  **Future Work:** This research serves as a baseline for Next Project Research, where 2D Convolutional Neural Networks (CNNs) will be applied to capture spatial patterns in price action that 1D MLPs may overlook.
